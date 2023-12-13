@@ -3015,6 +3015,7 @@ dependencies = [
  "async-trait",
  "axum",
  "axum-macros",
+ "bech32 0.9.1",
  "borsh-derive",
  "chrono",
  "clap",

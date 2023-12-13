@@ -49,6 +49,7 @@ axum-macros = "0.3.8"
 octocrab = "0.32.0"
 toml = "0.8.8"
 regex = "1.10.2"
+bech32 = "0.9.1"
 
 [profile.ephemeral-build]
 inherits = "release"
